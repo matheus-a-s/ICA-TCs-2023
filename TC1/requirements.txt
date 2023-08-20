@@ -101,3 +101,5 @@ wcwidth
 webcolors
 webencodings
 websocket-client
+pandas
+openpyxl
